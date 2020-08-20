@@ -1,0 +1,137 @@
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 377.2308ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 229.7887ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4442.4069ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 4563.2651ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 4610.1671ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 402.6215ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 281.0581ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Error: 0 - Bak Error Verdi
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 7821.5485ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 7959.6008ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 8009.4159ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 372.2239ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 254.6058ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 12.6761ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 2 - Request finished in 481.2988ms 500 text/html; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 449.7368ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 290.3666ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 491.7717ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 336.8481ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Error: 0 - Bak Error Verdi
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 6644.7188ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 6835.8058ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 6937.5092ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 472.2561ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 261.7748ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Error: 0 - Bak Error Verdi
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 7639.879ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 7787.5087ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 7883.4038ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 457.624ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 285.6023ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Error: 0 - Bak Error Verdi
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5233.4349ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 5463.2375ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 5604.4472ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 258.143ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 154.2949ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 214.824ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 124.7002ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 177.8937ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 126.5796ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Product  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Product"}. Executing action CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI)
+Information: 2 - Executed action CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI) in 4.9919ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI)'
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 2 - Request finished in 173.7653ms 500 text/html; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 189.954ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 125.333ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Product  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Product"}. Executing action CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI) - Validation state: Valid
+Information: 2 - Executed action method CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.JsonResult in 25583.2572ms.
+Information: 1 - Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[CS.Business.Shared.Dto.Product.ProductDto, CS.Business.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI) in 25682.0784ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ProductController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 25735.2914ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 227.6127ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 171.7929ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 POST http://localhost:55556/api/Order application/json-patch+json 218
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.OrderController.AddBasket (CS.WebAPI)'
+Information: 1 - Route matched with {action = "AddBasket", controller = "Order"}. Executing action CS.WebAPI.Controllers.OrderController.AddBasket (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.OrderController.AddBasket (CS.WebAPI) with arguments (System.Collections.Generic.List`1[CS.Business.Shared.Dto.Order.OrderDetailDto]) - Validation state: Valid
+Information: 2 - Executed action method CS.WebAPI.Controllers.OrderController.AddBasket (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 95046.1262ms.
+Information: 2 - Executed action CS.WebAPI.Controllers.OrderController.AddBasket (CS.WebAPI) in 99930.2353ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.OrderController.AddBasket (CS.WebAPI)'
+Information: 2 - Request finished in 100026.8604ms 200 
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 262.4461ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 173.6342ms 200 application/json;charset=utf-8
