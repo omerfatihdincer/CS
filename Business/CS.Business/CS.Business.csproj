@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business.Shared\CS.Business.Shared\CS.Business.Shared.csproj" />
+    <ProjectReference Include="..\..\Core\CS.Core\CS.Core.csproj" />
+    <ProjectReference Include="..\..\CS.Core.Shared\CS.Core.Shared.csproj" />
+    <ProjectReference Include="..\..\EntityFrameworkCore\CS.EntityFrameworkCore\CS.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\..\Logging\CS.Logging\CS.Logging.csproj" />
+  </ItemGroup>
+
+</Project>
