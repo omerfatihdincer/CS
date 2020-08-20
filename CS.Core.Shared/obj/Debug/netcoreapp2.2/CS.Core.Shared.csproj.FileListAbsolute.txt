@@ -1,0 +1,9 @@
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\bin\Debug\netcoreapp2.2\CS.Core.Shared.deps.json
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\bin\Debug\netcoreapp2.2\CS.Core.Shared.dll
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\bin\Debug\netcoreapp2.2\CS.Core.Shared.pdb
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\obj\Debug\netcoreapp2.2\CS.Core.Shared.csprojAssemblyReference.cache
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\obj\Debug\netcoreapp2.2\CS.Core.Shared.csproj.CoreCompileInputs.cache
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\obj\Debug\netcoreapp2.2\CS.Core.Shared.AssemblyInfoInputs.cache
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\obj\Debug\netcoreapp2.2\CS.Core.Shared.AssemblyInfo.cs
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\obj\Debug\netcoreapp2.2\CS.Core.Shared.dll
+C:\Users\GXT90067851\Desktop\CS\CS\CS.Core.Shared\obj\Debug\netcoreapp2.2\CS.Core.Shared.pdb
