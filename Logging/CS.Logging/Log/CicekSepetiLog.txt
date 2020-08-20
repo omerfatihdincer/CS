@@ -1,0 +1,28 @@
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 554.7688ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 15011.5292ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 10377.9839ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 10508.0133ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 29611.2625ms 200 application/json; charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/index.html  
+Information: 2 - Request finished in 399.6955ms 200 text/html;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/swagger/v1/swagger.json  
+Information: 2 - Request finished in 207.6354ms 200 application/json;charset=utf-8
+Information: 1 - Request starting HTTP/1.1 GET http://localhost:55556/api/Values  
+Information: 0 - Executing endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 1 - Route matched with {action = "Get", controller = "Values"}. Executing action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)
+Information: 1 - Executing action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) - Validation state: Valid
+Information: 0 - Hi from logger !
+Information: 2 - Executed action method CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 9900.9866ms.
+Information: 1 - Executing ObjectResult, writing value of type 'System.String[]'.
+Information: 2 - Executed action CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI) in 10012.5871ms
+Information: 1 - Executed endpoint 'CS.WebAPI.Controllers.ValuesController.Get (CS.WebAPI)'
+Information: 2 - Request finished in 10062.6577ms 200 application/json; charset=utf-8
